@@ -8,3 +8,4 @@ You need to use the proportionalSize function here to make sure that the player'
 fillStyle()
 requestAnimationFrame()
 clearRect()
+shorthand property name syntax
