@@ -1,5 +1,6 @@
 # platformer-game
 
+getContext()
 canvas
 canvas.width
 canvas.innerWidth
@@ -9,3 +10,5 @@ fillStyle()
 requestAnimationFrame()
 clearRect()
 shorthand property name syntax
+array can use boolean expression
+infinity
